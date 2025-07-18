@@ -355,7 +355,7 @@
 			<dependency>
 				<groupId>ca.uhn.hapi</groupId>
 				<artifactId>hapi-structures-v25</artifactId>
-				<version>2.1</version>
+				<version>2.5.1</version>
 			</dependency>
 			<dependency>
 				<groupId>ca.uhn.hapi</groupId>
@@ -783,7 +783,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -802,7 +802,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -823,7 +823,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -1293,7 +1293,7 @@
 		<log4jVersion>2.22.1</log4jVersion>
 		<owaspCsrfGuardVersion>4.2.1</owaspCsrfGuardVersion>
 
-		<customArgLineForTesting />
+		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org</sonar.host.url>		
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
